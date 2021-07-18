@@ -18,27 +18,27 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 
 ## Short Bio
 
-- May 2020 - Aug 2020
-&nbsp;&nbsp;Deep Learning Applied Scientist at NVIDIA, Conversational AI team
-- Jul 2016 - May 2021
-&nbsp;&nbsp;PhD in Electrical and Computer Engineering, University of Southern California
-- Jul 2019 - May 2021
-&nbsp;&nbsp;MS in Computer Science, University of Southern California
-- Feb 2012 - Jun 2016
-&nbsp;&nbsp;Researcher at Electronics and Telecommunications Research Institute (ETRI), Republic of Korea
-- Mar 2010 - Feb 2012
-&nbsp;&nbsp;MS, Seoul National University (SNU)Electrical Engineering and Computer Science
-- Mar 2005 - Feb 2010
-&nbsp;&nbsp;BS, Seoul National University (SNU)Electrical Engineering
+- May 2020 - Aug 2020   
+&ensp;&ensp;Deep Learning Applied Scientist at NVIDIA, Conversational AI team
+- Jul 2016 - May 2021   
+&ensp;&ensp;PhD in Electrical and Computer Engineering, University of Southern California
+- Jul 2019 - May 2021   
+&ensp;&ensp;MS in Computer Science, University of Southern California
+- Feb 2012 - Jun 2016   
+&ensp;&ensp;Researcher at Electronics and Telecommunications Research Institute (ETRI), Republic of Korea
+- Mar 2010 - Feb 2012   
+&ensp;&ensp;MS, Seoul National University (SNU)Electrical Engineering and Computer Science
+- Mar 2005 - Feb 2010   
+&ensp;&ensp;BS, Seoul National University (SNU)Electrical Engineering
 
 ## Internships 
 
-- May 2020 - Aug 2020, Microsoft Cognitive Services Research 
-&nbsp;&nbsp;Research Intern: Research on Federated Continual Learning
-- May 2019 - Aug 2019, Amazon Alexa Speech 
-&nbsp;&nbsp;Applied Scientist Intern: Research on the ASR system for Amazon Alexa devices
-- May 2018 - Aug 2018, Capio Inc.: 
-&nbsp;&nbsp;Summer Intern: Research on speaker diarization system that exploits lexical information from ASR
+- May 2020 - Aug 2020, Microsoft Cognitive Services Research     
+&ensp;&ensp;Research Intern: Research on Federated Continual Learning
+- May 2019 - Aug 2019, Amazon Alexa Speech    
+&ensp;&ensp;Applied Scientist Intern: Research on the ASR system for Amazon Alexa devices
+- May 2018 - Aug 2018, Capio Inc.   
+&ensp;&ensp;Summer Intern: Research on speaker diarization system that exploits lexical information from ASR
 
 
 
