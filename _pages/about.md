@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Taejin Park"
 excerpt: ""
 author_profile: true
 redirect_from: 
