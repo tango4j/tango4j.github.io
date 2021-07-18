@@ -39,11 +39,11 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 ## Internships 
 
 - May 2020 - Aug 2020     
-&ensp;&ensp;Microsoft Cognitive Services Research     
+&ensp;&ensp;Microsoft (Cognitive Services Research)     
 &ensp;&ensp;Research Intern: Research on Federated Continual Learning
 
 - May 2019 - Aug 2019   
-&ensp;&ensp;Amazon Alexa Speech    
+&ensp;&ensp;Amazon (Alexa Speech)    
 &ensp;&ensp;Applied Scientist Intern: Research on the ASR system for Amazon Alexa devices
 
 - May 2018 - Aug 2018   
