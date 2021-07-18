@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Taejin Park"
 title_separator          : "-"
 name                     : &name "Dr. Test Account"
 description              : &description "Research scientist at Test University"
