@@ -31,10 +31,10 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 &ensp;&ensp;Researcher at Electronics and Telecommunications Research Institute (ETRI), Republic of Korea
 
 - Mar 2010 - Feb 2012   
-&ensp;&ensp;MS, Seoul National University (SNU)Electrical Engineering and Computer Science
+&ensp;&ensp;MS, Electrical Engineering and Computer Science, Seoul National University
 
 - Mar 2005 - Feb 2010   
-&ensp;&ensp;BS, Seoul National University (SNU)Electrical Engineering
+&ensp;&ensp;BS, Electrical Engineering, Seoul National University 
 
 ## Internships 
 
