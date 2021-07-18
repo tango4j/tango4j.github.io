@@ -18,7 +18,7 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 
 ## Short Bio
 
-- May 2020 - Present
+- May 2020 - Present    
 &ensp;&ensp;Deep Learning Applied Scientist at NVIDIA, Conversational AI team
 
 - Jul 2016 - May 2021   
@@ -38,15 +38,15 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 
 ## Internships 
 
-- May 2020 - Aug 2020 
+- May 2020 - Aug 2020     
 &ensp;&ensp;Microsoft Cognitive Services Research     
 &ensp;&ensp;Research Intern: Research on Federated Continual Learning
 
-- May 2019 - Aug 2019
+- May 2019 - Aug 2019   
 &ensp;&ensp;Amazon Alexa Speech    
 &ensp;&ensp;Applied Scientist Intern: Research on the ASR system for Amazon Alexa devices
 
-- May 2018 - Aug 2018
+- May 2018 - Aug 2018   
 &ensp;&ensp;Capio Inc.   
 &ensp;&ensp;Summer Intern: Research on speaker diarization system that exploits lexical information from ASR
 
