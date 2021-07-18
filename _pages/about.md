@@ -16,7 +16,7 @@ Previously, I received my MS in Computer Science and PhD in Electrical and Compu
 
 Currently, my research focuses on speaker recognition in automatic speech recognition system. 
 
-# Short Bio
+## Short Bio
 
 - May 2020 - Aug 2020: Deep Learning Applied Scientist at NVIDIA, Conversational AI team
 - Jul 2016 - May 2021: PhD in Electrical and Computer Engineering, University of Southern California
