@@ -28,7 +28,7 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 &ensp;&ensp;MS in Computer Science, University of Southern California
 
 - Feb 2012 - Jun 2016   
-&ensp;&ensp;Researcher at Electronics and Telecommunications Research Institute (ETRI), Republic of Korea
+&ensp;&ensp;Researcher at Electronics and Telecommunications Research Institute (ETRI)
 
 - Mar 2010 - Feb 2012   
 &ensp;&ensp;MS, Electrical Engineering and Computer Science, Seoul National University
