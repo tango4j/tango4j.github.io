@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+## About me
 
 I am working as a Deep Learning Applied Scientist of conversational AI team at NVIDIA, where I work on speaker diarization and speech recognition for NVIDIA's conversational AI system. 
 
