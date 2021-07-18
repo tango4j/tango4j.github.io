@@ -1,0 +1,54 @@
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: "/page/:num/"
+
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: Taejin Park's homepage
+description: "Signal Processing Turtle"
+keywords: "Machine Learning, Deep Learning, Signal Processing"
+url: http://tango4j.github.io/
+baseurl: ""
+
+google_analytics: UA-52446115-1
+repo: http://github.com/tango4j/
+disqus_shortname: "tango4j"
+disqus_site_shortname: "tango4j"
+
+# Author settings
+author:
+  name: Taejin Park
+  job: Machine Learning Engineer
+  bio: "BLA BLA."
+  thumb: /images/author.jpg
+  email: nandomoreira.me@gmail.com
+  url: https://nandomoreira.me/
+  github: https://github.com/nandomoreirame
+  twitter: https://twitter.com/umdevux
+  facebook: https://facebook.com/umdevux
+  linkedin: https://linkedin.com/in/nandomoreirame
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: icons
+    title: Icons
+  - slug: blog
+    title: Blog
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
