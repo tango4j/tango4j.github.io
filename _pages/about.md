@@ -18,7 +18,7 @@ Currently, my research focuses on speaker recognition in automatic speech recogn
 
 ## Short Bio
 
-- May 2020 - Present    
+- Jun 2020 - Present    
 &ensp;&ensp;Deep Learning Applied Scientist at NVIDIA, Conversational AI team
 
 - Jul 2016 - May 2021   
